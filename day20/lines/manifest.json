@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 20,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day20-line001.mp3",
+   "en": "I lost my keys, and I can't find them anywhere.",
+   "bytes": 32256
+  },
+  {
+   "line": 2,
+   "file": "day20-line002.mp3",
+   "en": "My phone battery died, so I could not call you.",
+   "bytes": 35520
+  },
+  {
+   "line": 3,
+   "file": "day20-line003.mp3",
+   "en": "Don't worry, we can fix this together.",
+   "bytes": 27648
+  },
+  {
+   "line": 4,
+   "file": "day20-line004.mp3",
+   "en": "The internet is very slow today. Let's restart the router.",
+   "bytes": 38784
+  },
+  {
+   "line": 5,
+   "file": "day20-line005.mp3",
+   "en": "What should I do if I miss the bus?",
+   "bytes": 22848
+  },
+  {
+   "line": 6,
+   "file": "day20-line006.mp3",
+   "en": "I made a mistake, and I am sorry about it.",
+   "bytes": 30144
+  },
+  {
+   "line": 7,
+   "file": "day20-line007.mp3",
+   "en": "Can you help me carry these heavy bags?",
+   "bytes": 27840
+  },
+  {
+   "line": 8,
+   "file": "day20-line008.mp3",
+   "en": "The problem is that we don't have enough time.",
+   "bytes": 28608
+  },
+  {
+   "line": 9,
+   "file": "day20-line009.mp3",
+   "en": "Let's ask the manager. Maybe he has a solution.",
+   "bytes": 32256
+  },
+  {
+   "line": 10,
+   "file": "day20-line010.mp3",
+   "en": "Every problem has a solution if you stay calm.",
+   "bytes": 36096
+  }
+ ]
+}

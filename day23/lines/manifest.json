@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 23,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day23-line001.mp3",
+   "en": "Last summer, I went to Alexandria with my family.",
+   "bytes": 37056
+  },
+  {
+   "line": 2,
+   "file": "day23-line002.mp3",
+   "en": "It was raining when we arrived at the hotel.",
+   "bytes": 31488
+  },
+  {
+   "line": 3,
+   "file": "day23-line003.mp3",
+   "en": "First, we left our bags in the room.",
+   "bytes": 23232
+  },
+  {
+   "line": 4,
+   "file": "day23-line004.mp3",
+   "en": "Then we walked along the beach for an hour.",
+   "bytes": 29952
+  },
+  {
+   "line": 5,
+   "file": "day23-line005.mp3",
+   "en": "Suddenly, my little brother fell into the water.",
+   "bytes": 35904
+  },
+  {
+   "line": 6,
+   "file": "day23-line006.mp3",
+   "en": "Luckily, he was fine, and everyone laughed.",
+   "bytes": 31488
+  },
+  {
+   "line": 7,
+   "file": "day23-line007.mp3",
+   "en": "After that, we had fish for dinner.",
+   "bytes": 26496
+  },
+  {
+   "line": 8,
+   "file": "day23-line008.mp3",
+   "en": "In the end, it was the best trip of the year.",
+   "bytes": 26688
+  },
+  {
+   "line": 9,
+   "file": "day23-line009.mp3",
+   "en": "I will never forget that day.",
+   "bytes": 22272
+  },
+  {
+   "line": 10,
+   "file": "day23-line010.mp3",
+   "en": "Now it's your turn. Tell me a story.",
+   "bytes": 28608
+  }
+ ]
+}

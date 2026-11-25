@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 25,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day25-line001.mp3",
+   "en": "Hello, this is Ahmed. Can I speak to Mr. Karim, please?",
+   "bytes": 42432
+  },
+  {
+   "line": 2,
+   "file": "day25-line002.mp3",
+   "en": "I'm sorry, he is in a meeting right now.",
+   "bytes": 26112
+  },
+  {
+   "line": 3,
+   "file": "day25-line003.mp3",
+   "en": "Can I leave a message for him?",
+   "bytes": 22464
+  },
+  {
+   "line": 4,
+   "file": "day25-line004.mp3",
+   "en": "Could you call me back this afternoon?",
+   "bytes": 20352
+  },
+  {
+   "line": 5,
+   "file": "day25-line005.mp3",
+   "en": "I can't hear you well. The line is bad.",
+   "bytes": 27456
+  },
+  {
+   "line": 6,
+   "file": "day25-line006.mp3",
+   "en": "Please speak a little more slowly.",
+   "bytes": 28992
+  },
+  {
+   "line": 7,
+   "file": "day25-line007.mp3",
+   "en": "I'll send you a message on WhatsApp.",
+   "bytes": 22464
+  },
+  {
+   "line": 8,
+   "file": "day25-line008.mp3",
+   "en": "Sorry, I have the wrong number.",
+   "bytes": 19392
+  },
+  {
+   "line": 9,
+   "file": "day25-line009.mp3",
+   "en": "My phone is about to die. I'll call you later.",
+   "bytes": 32256
+  },
+  {
+   "line": 10,
+   "file": "day25-line010.mp3",
+   "en": "Thanks for calling. Have a nice day.",
+   "bytes": 21696
+  }
+ ]
+}

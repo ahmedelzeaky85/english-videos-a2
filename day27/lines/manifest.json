@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 27,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day27-line001.mp3",
+   "en": "Happy birthday! I hope all your wishes come true.",
+   "bytes": 34560
+  },
+  {
+   "line": 2,
+   "file": "day27-line002.mp3",
+   "en": "Congratulations on your new job!",
+   "bytes": 22656
+  },
+  {
+   "line": 3,
+   "file": "day27-line003.mp3",
+   "en": "We celebrate Eid with our whole family.",
+   "bytes": 27648
+  },
+  {
+   "line": 4,
+   "file": "day27-line004.mp3",
+   "en": "My grandmother makes sweets for every holiday.",
+   "bytes": 32448
+  },
+  {
+   "line": 5,
+   "file": "day27-line005.mp3",
+   "en": "The kids got new clothes and gifts.",
+   "bytes": 28992
+  },
+  {
+   "line": 6,
+   "file": "day27-line006.mp3",
+   "en": "We decorated the house for Ramadan.",
+   "bytes": 26880
+  },
+  {
+   "line": 7,
+   "file": "day27-line007.mp3",
+   "en": "They invited two hundred guests to the wedding.",
+   "bytes": 29568
+  },
+  {
+   "line": 8,
+   "file": "day27-line008.mp3",
+   "en": "Thank you for the lovely gift. I really like it.",
+   "bytes": 33216
+  },
+  {
+   "line": 9,
+   "file": "day27-line009.mp3",
+   "en": "Everyone danced and took photos all night.",
+   "bytes": 33792
+  },
+  {
+   "line": 10,
+   "file": "day27-line010.mp3",
+   "en": "It was a day I will remember forever.",
+   "bytes": 32256
+  }
+ ]
+}

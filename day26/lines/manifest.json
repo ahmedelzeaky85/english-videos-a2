@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 26,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day26-line001.mp3",
+   "en": "Excuse me, how can I get to the train station?",
+   "bytes": 30336
+  },
+  {
+   "line": 2,
+   "file": "day26-line002.mp3",
+   "en": "Go straight, then turn left at the traffic light.",
+   "bytes": 32832
+  },
+  {
+   "line": 3,
+   "file": "day26-line003.mp3",
+   "en": "It takes about twenty minutes by bus.",
+   "bytes": 27648
+  },
+  {
+   "line": 4,
+   "file": "day26-line004.mp3",
+   "en": "Is there a metro station near here?",
+   "bytes": 21312
+  },
+  {
+   "line": 5,
+   "file": "day26-line005.mp3",
+   "en": "I'd like a ticket to Alexandria, please.",
+   "bytes": 24768
+  },
+  {
+   "line": 6,
+   "file": "day26-line006.mp3",
+   "en": "The train leaves at half past seven.",
+   "bytes": 29376
+  },
+  {
+   "line": 7,
+   "file": "day26-line007.mp3",
+   "en": "I missed my flight because of the traffic.",
+   "bytes": 27648
+  },
+  {
+   "line": 8,
+   "file": "day26-line008.mp3",
+   "en": "Could you take me to the airport, please?",
+   "bytes": 21504
+  },
+  {
+   "line": 9,
+   "file": "day26-line009.mp3",
+   "en": "The taxi driver knew a faster way.",
+   "bytes": 25536
+  },
+  {
+   "line": 10,
+   "file": "day26-line010.mp3",
+   "en": "I prefer to walk when the weather is nice.",
+   "bytes": 28608
+  }
+ ]
+}

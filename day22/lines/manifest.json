@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 22,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day22-line001.mp3",
+   "en": "In my opinion, learning English every day is the best way.",
+   "bytes": 42240
+  },
+  {
+   "line": 2,
+   "file": "day22-line002.mp3",
+   "en": "I think this movie is better than the book.",
+   "bytes": 28032
+  },
+  {
+   "line": 3,
+   "file": "day22-line003.mp3",
+   "en": "I agree with you, but I see it a little differently.",
+   "bytes": 37248
+  },
+  {
+   "line": 4,
+   "file": "day22-line004.mp3",
+   "en": "I don't think that is a good idea.",
+   "bytes": 25344
+  },
+  {
+   "line": 5,
+   "file": "day22-line005.mp3",
+   "en": "What do you think about the new restaurant?",
+   "bytes": 27648
+  },
+  {
+   "line": 6,
+   "file": "day22-line006.mp3",
+   "en": "For me, health is more important than money.",
+   "bytes": 32448
+  },
+  {
+   "line": 7,
+   "file": "day22-line007.mp3",
+   "en": "You may be right, but I am not sure.",
+   "bytes": 33024
+  },
+  {
+   "line": 8,
+   "file": "day22-line008.mp3",
+   "en": "Honestly, I prefer tea to coffee.",
+   "bytes": 24576
+  },
+  {
+   "line": 9,
+   "file": "day22-line009.mp3",
+   "en": "That's an interesting point. I never thought about it.",
+   "bytes": 30144
+  },
+  {
+   "line": 10,
+   "file": "day22-line010.mp3",
+   "en": "Everyone has a different opinion, and that is fine.",
+   "bytes": 34752
+  }
+ ]
+}

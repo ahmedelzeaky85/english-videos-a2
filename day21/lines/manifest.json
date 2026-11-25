@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 21,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day21-line001.mp3",
+   "en": "Would you like to come to my birthday party on Friday?",
+   "bytes": 29184
+  },
+  {
+   "line": 2,
+   "file": "day21-line002.mp3",
+   "en": "Thank you for inviting me. I would love to come.",
+   "bytes": 29952
+  },
+  {
+   "line": 3,
+   "file": "day21-line003.mp3",
+   "en": "I'm sorry, I can't come because I have to work.",
+   "bytes": 33216
+  },
+  {
+   "line": 4,
+   "file": "day21-line004.mp3",
+   "en": "Are you free this weekend? Let's have lunch together.",
+   "bytes": 25536
+  },
+  {
+   "line": 5,
+   "file": "day21-line005.mp3",
+   "en": "What time should I be there?",
+   "bytes": 15168
+  },
+  {
+   "line": 6,
+   "file": "day21-line006.mp3",
+   "en": "Can I bring a friend with me?",
+   "bytes": 17088
+  },
+  {
+   "line": 7,
+   "file": "day21-line007.mp3",
+   "en": "We are having a small dinner at our place tonight.",
+   "bytes": 33024
+  },
+  {
+   "line": 8,
+   "file": "day21-line008.mp3",
+   "en": "It was very kind of you to invite us.",
+   "bytes": 26688
+  },
+  {
+   "line": 9,
+   "file": "day21-line009.mp3",
+   "en": "Maybe next time. I hope you have a great time.",
+   "bytes": 31488
+  },
+  {
+   "line": 10,
+   "file": "day21-line010.mp3",
+   "en": "Please let me know if you can make it.",
+   "bytes": 22464
+  }
+ ]
+}

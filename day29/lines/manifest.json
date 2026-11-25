@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 29,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day29-line001.mp3",
+   "en": "I need to open a bank account.",
+   "bytes": 23808
+  },
+  {
+   "line": 2,
+   "file": "day29-line002.mp3",
+   "en": "I love winter because I hate the heat.",
+   "bytes": 34176
+  },
+  {
+   "line": 3,
+   "file": "day29-line003.mp3",
+   "en": "There is a new metro station near my house.",
+   "bytes": 27840
+  },
+  {
+   "line": 4,
+   "file": "day29-line004.mp3",
+   "en": "I cooked dinner for my family yesterday.",
+   "bytes": 23424
+  },
+  {
+   "line": 5,
+   "file": "day29-line005.mp3",
+   "en": "I go to the gym three times a week.",
+   "bytes": 25536
+  },
+  {
+   "line": 6,
+   "file": "day29-line006.mp3",
+   "en": "Could you turn on the air conditioner, please?",
+   "bytes": 24576
+  },
+  {
+   "line": 7,
+   "file": "day29-line007.mp3",
+   "en": "Don't worry, we can fix this together.",
+   "bytes": 23232
+  },
+  {
+   "line": 8,
+   "file": "day29-line008.mp3",
+   "en": "Would you like to come to my birthday party on Friday?",
+   "bytes": 31104
+  },
+  {
+   "line": 9,
+   "file": "day29-line009.mp3",
+   "en": "In my opinion, learning English every day is the best way.",
+   "bytes": 41664
+  },
+  {
+   "line": 10,
+   "file": "day29-line010.mp3",
+   "en": "Last summer, I went to Alexandria with my family.",
+   "bytes": 32640
+  }
+ ]
+}

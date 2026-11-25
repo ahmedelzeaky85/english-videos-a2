@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 28,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day28-line001.mp3",
+   "en": "This year, I want to speak English with confidence.",
+   "bytes": 33408
+  },
+  {
+   "line": 2,
+   "file": "day28-line002.mp3",
+   "en": "My goal is to finish the course by December.",
+   "bytes": 33024
+  },
+  {
+   "line": 3,
+   "file": "day28-line003.mp3",
+   "en": "I am going to study for thirty minutes every day.",
+   "bytes": 31488
+  },
+  {
+   "line": 4,
+   "file": "day28-line004.mp3",
+   "en": "Next year, I plan to travel to another country.",
+   "bytes": 34560
+  },
+  {
+   "line": 5,
+   "file": "day28-line005.mp3",
+   "en": "If I practice daily, I will improve quickly.",
+   "bytes": 33792
+  },
+  {
+   "line": 6,
+   "file": "day28-line006.mp3",
+   "en": "She wants to start her own business one day.",
+   "bytes": 31296
+  },
+  {
+   "line": 7,
+   "file": "day28-line007.mp3",
+   "en": "We are saving money to buy a small car.",
+   "bytes": 38592
+  },
+  {
+   "line": 8,
+   "file": "day28-line008.mp3",
+   "en": "I haven't decided yet, but I'm thinking about it.",
+   "bytes": 34944
+  },
+  {
+   "line": 9,
+   "file": "day28-line009.mp3",
+   "en": "It is important to have a clear plan.",
+   "bytes": 26112
+  },
+  {
+   "line": 10,
+   "file": "day28-line010.mp3",
+   "en": "Small steps every day lead to big results.",
+   "bytes": 35136
+  }
+ ]
+}
