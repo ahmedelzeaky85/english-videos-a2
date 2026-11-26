@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 5,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day05-line001.mp3",
+   "en": "I have a meeting with my manager at ten.",
+   "bytes": 27072
+  },
+  {
+   "line": 2,
+   "file": "day05-line002.mp3",
+   "en": "She works as a nurse in a big hospital.",
+   "bytes": 29184
+  },
+  {
+   "line": 3,
+   "file": "day05-line003.mp3",
+   "en": "He got a promotion last week.",
+   "bytes": 18432
+  },
+  {
+   "line": 4,
+   "file": "day05-line004.mp3",
+   "en": "I usually finish work at five o'clock.",
+   "bytes": 29184
+  },
+  {
+   "line": 5,
+   "file": "day05-line005.mp3",
+   "en": "We are very busy at the office these days.",
+   "bytes": 28224
+  },
+  {
+   "line": 6,
+   "file": "day05-line006.mp3",
+   "en": "Can you send me the report by email?",
+   "bytes": 23232
+  },
+  {
+   "line": 7,
+   "file": "day05-line007.mp3",
+   "en": "My colleague helped me with the project.",
+   "bytes": 24768
+  },
+  {
+   "line": 8,
+   "file": "day05-line008.mp3",
+   "en": "I am looking for a new job these days.",
+   "bytes": 27264
+  },
+  {
+   "line": 9,
+   "file": "day05-line009.mp3",
+   "en": "The salary is good, but the hours are long.",
+   "bytes": 31104
+  },
+  {
+   "line": 10,
+   "file": "day05-line010.mp3",
+   "en": "I want to improve my skills this year.",
+   "bytes": 27648
+  }
+ ]
+}

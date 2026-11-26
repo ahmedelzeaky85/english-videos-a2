@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 9,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day09-line001.mp3",
+   "en": "I am studying English at a language center.",
+   "bytes": 28608
+  },
+  {
+   "line": 2,
+   "file": "day09-line002.mp3",
+   "en": "She goes to university in Cairo.",
+   "bytes": 26688
+  },
+  {
+   "line": 3,
+   "file": "day09-line003.mp3",
+   "en": "The exam was easier than I expected.",
+   "bytes": 26688
+  },
+  {
+   "line": 4,
+   "file": "day09-line004.mp3",
+   "en": "I have a lot of homework this week.",
+   "bytes": 23424
+  },
+  {
+   "line": 5,
+   "file": "day09-line005.mp3",
+   "en": "Our teacher explains the lessons very well.",
+   "bytes": 30528
+  },
+  {
+   "line": 6,
+   "file": "day09-line006.mp3",
+   "en": "He graduated from faculty of engineering.",
+   "bytes": 28224
+  },
+  {
+   "line": 7,
+   "file": "day09-line007.mp3",
+   "en": "Can you help me with this exercise?",
+   "bytes": 20928
+  },
+  {
+   "line": 8,
+   "file": "day09-line008.mp3",
+   "en": "I passed all my exams last year.",
+   "bytes": 26112
+  },
+  {
+   "line": 9,
+   "file": "day09-line009.mp3",
+   "en": "The library is open until eight at night.",
+   "bytes": 29952
+  },
+  {
+   "line": 10,
+   "file": "day09-line010.mp3",
+   "en": "Learning a new language takes time.",
+   "bytes": 23232
+  }
+ ]
+}

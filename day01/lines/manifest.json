@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 1,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day01-line001.mp3",
+   "en": "It's nice to meet you, I've heard a lot about you.",
+   "bytes": 27264
+  },
+  {
+   "line": 2,
+   "file": "day01-line002.mp3",
+   "en": "Let me introduce you to my friend Karim.",
+   "bytes": 27648
+  },
+  {
+   "line": 3,
+   "file": "day01-line003.mp3",
+   "en": "We have known each other since childhood.",
+   "bytes": 24384
+  },
+  {
+   "line": 4,
+   "file": "day01-line004.mp3",
+   "en": "What do you do for a living these days?",
+   "bytes": 24192
+  },
+  {
+   "line": 5,
+   "file": "day01-line005.mp3",
+   "en": "I work as a graphic designer at a small company.",
+   "bytes": 31872
+  },
+  {
+   "line": 6,
+   "file": "day01-line006.mp3",
+   "en": "How long have you been living in Cairo?",
+   "bytes": 23232
+  },
+  {
+   "line": 7,
+   "file": "day01-line007.mp3",
+   "en": "I moved here two years ago for work.",
+   "bytes": 24192
+  },
+  {
+   "line": 8,
+   "file": "day01-line008.mp3",
+   "en": "Do you come here often?",
+   "bytes": 13824
+  },
+  {
+   "line": 9,
+   "file": "day01-line009.mp3",
+   "en": "We should keep in touch.",
+   "bytes": 13632
+  },
+  {
+   "line": 10,
+   "file": "day01-line010.mp3",
+   "en": "Here is my number, give me a call sometime.",
+   "bytes": 25344
+  }
+ ]
+}

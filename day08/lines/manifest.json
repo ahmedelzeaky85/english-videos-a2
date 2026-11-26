@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 8,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day08-line001.mp3",
+   "en": "I have a doctor's appointment tomorrow morning.",
+   "bytes": 27264
+  },
+  {
+   "line": 2,
+   "file": "day08-line002.mp3",
+   "en": "I don't feel well today.",
+   "bytes": 16512
+  },
+  {
+   "line": 3,
+   "file": "day08-line003.mp3",
+   "en": "She has a headache and a sore throat.",
+   "bytes": 31872
+  },
+  {
+   "line": 4,
+   "file": "day08-line004.mp3",
+   "en": "You should drink more water and rest.",
+   "bytes": 25152
+  },
+  {
+   "line": 5,
+   "file": "day08-line005.mp3",
+   "en": "The pharmacy is next to the hospital.",
+   "bytes": 28032
+  },
+  {
+   "line": 6,
+   "file": "day08-line006.mp3",
+   "en": "Take this medicine twice a day.",
+   "bytes": 21312
+  },
+  {
+   "line": 7,
+   "file": "day08-line007.mp3",
+   "en": "I need to see a dentist soon.",
+   "bytes": 22464
+  },
+  {
+   "line": 8,
+   "file": "day08-line008.mp3",
+   "en": "He broke his arm playing football.",
+   "bytes": 24768
+  },
+  {
+   "line": 9,
+   "file": "day08-line009.mp3",
+   "en": "Are you allergic to any medicine?",
+   "bytes": 21504
+  },
+  {
+   "line": 10,
+   "file": "day08-line010.mp3",
+   "en": "I feel much better now, thank God.",
+   "bytes": 27648
+  }
+ ]
+}

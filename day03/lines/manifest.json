@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 3,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day03-line001.mp3",
+   "en": "I am planning a trip to Alexandria next month.",
+   "bytes": 34752
+  },
+  {
+   "line": 2,
+   "file": "day03-line002.mp3",
+   "en": "We booked the hotel online yesterday.",
+   "bytes": 25344
+  },
+  {
+   "line": 3,
+   "file": "day03-line003.mp3",
+   "en": "How much does a train ticket to Aswan cost?",
+   "bytes": 30912
+  },
+  {
+   "line": 4,
+   "file": "day03-line004.mp3",
+   "en": "I always pack my bag the night before.",
+   "bytes": 26112
+  },
+  {
+   "line": 5,
+   "file": "day03-line005.mp3",
+   "en": "The flight takes about an hour.",
+   "bytes": 24384
+  },
+  {
+   "line": 6,
+   "file": "day03-line006.mp3",
+   "en": "We should try the local food there.",
+   "bytes": 23232
+  },
+  {
+   "line": 7,
+   "file": "day03-line007.mp3",
+   "en": "Do not forget your passport.",
+   "bytes": 21312
+  },
+  {
+   "line": 8,
+   "file": "day03-line008.mp3",
+   "en": "The view from the hotel was amazing.",
+   "bytes": 25728
+  },
+  {
+   "line": 9,
+   "file": "day03-line009.mp3",
+   "en": "We took a lot of photos during the trip.",
+   "bytes": 29184
+  },
+  {
+   "line": 10,
+   "file": "day03-line010.mp3",
+   "en": "I want to visit this place again one day.",
+   "bytes": 32448
+  }
+ ]
+}

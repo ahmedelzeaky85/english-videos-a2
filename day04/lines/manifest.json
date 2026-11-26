@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 4,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day04-line001.mp3",
+   "en": "What are you going to do this weekend?",
+   "bytes": 19392
+  },
+  {
+   "line": 2,
+   "file": "day04-line002.mp3",
+   "en": "I am going to visit my family on Friday.",
+   "bytes": 31104
+  },
+  {
+   "line": 3,
+   "file": "day04-line003.mp3",
+   "en": "We are meeting some friends for dinner tonight.",
+   "bytes": 28992
+  },
+  {
+   "line": 4,
+   "file": "day04-line004.mp3",
+   "en": "She is starting a new job next month.",
+   "bytes": 25152
+  },
+  {
+   "line": 5,
+   "file": "day04-line005.mp3",
+   "en": "I will probably travel abroad next year.",
+   "bytes": 28608
+  },
+  {
+   "line": 6,
+   "file": "day04-line006.mp3",
+   "en": "They are moving to a new apartment soon.",
+   "bytes": 27072
+  },
+  {
+   "line": 7,
+   "file": "day04-line007.mp3",
+   "en": "Are you coming to the party on Saturday?",
+   "bytes": 21312
+  },
+  {
+   "line": 8,
+   "file": "day04-line008.mp3",
+   "en": "I am not doing anything special tomorrow.",
+   "bytes": 30528
+  },
+  {
+   "line": 9,
+   "file": "day04-line009.mp3",
+   "en": "We hope to buy a car by the end of the year.",
+   "bytes": 27648
+  },
+  {
+   "line": 10,
+   "file": "day04-line010.mp3",
+   "en": "One day, I want to open my own business.",
+   "bytes": 30528
+  }
+ ]
+}
