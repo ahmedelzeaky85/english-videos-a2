@@ -1,0 +1,200 @@
+{
+ "level": "A2",
+ "day": 24,
+ "count": 32,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day24-line001.mp3",
+   "en": "Hi Omar! Would you like to come to my birthday party on Friday?",
+   "bytes": 34368
+  },
+  {
+   "line": 2,
+   "file": "day24-line002.mp3",
+   "en": "Thank you for inviting me. I would love to come.",
+   "bytes": 26304
+  },
+  {
+   "line": 3,
+   "file": "day24-line003.mp3",
+   "en": "What do you think about my new apartment?",
+   "bytes": 24768
+  },
+  {
+   "line": 4,
+   "file": "day24-line004.mp3",
+   "en": "In my opinion, it is great. The living room is big.",
+   "bytes": 42624
+  },
+  {
+   "line": 5,
+   "file": "day24-line005.mp3",
+   "en": "We live in a small apartment, but the neighbors are friendly.",
+   "bytes": 34368
+  },
+  {
+   "line": 6,
+   "file": "day24-line006.mp3",
+   "en": "I have been living here for three years too.",
+   "bytes": 28224
+  },
+  {
+   "line": 7,
+   "file": "day24-line007.mp3",
+   "en": "Please take off your shoes before you come in.",
+   "bytes": 26688
+  },
+  {
+   "line": 8,
+   "file": "day24-line008.mp3",
+   "en": "Sure. Could you turn on the air conditioner, please?",
+   "bytes": 30528
+  },
+  {
+   "line": 9,
+   "file": "day24-line009.mp3",
+   "en": "Of course. The washing machine is not working again, by the way.",
+   "bytes": 34368
+  },
+  {
+   "line": 10,
+   "file": "day24-line010.mp3",
+   "en": "Don't worry, we can fix this together.",
+   "bytes": 23232
+  },
+  {
+   "line": 11,
+   "file": "day24-line011.mp3",
+   "en": "What should I do if the problem comes back?",
+   "bytes": 23808
+  },
+  {
+   "line": 12,
+   "file": "day24-line012.mp3",
+   "en": "Let's ask the manager. Maybe he has a solution.",
+   "bytes": 32832
+  },
+  {
+   "line": 13,
+   "file": "day24-line013.mp3",
+   "en": "Every problem has a solution if you stay calm.",
+   "bytes": 35904
+  },
+  {
+   "line": 14,
+   "file": "day24-line014.mp3",
+   "en": "I lost my keys yesterday, and I couldn't find them anywhere.",
+   "bytes": 33792
+  },
+  {
+   "line": 15,
+   "file": "day24-line015.mp3",
+   "en": "Oh no! Last summer, I went to Alexandria with my family.",
+   "bytes": 45504
+  },
+  {
+   "line": 16,
+   "file": "day24-line016.mp3",
+   "en": "It was raining when we arrived at the hotel, wasn't it?",
+   "bytes": 29184
+  },
+  {
+   "line": 17,
+   "file": "day24-line017.mp3",
+   "en": "Yes! Then we walked along the beach for an hour.",
+   "bytes": 38592
+  },
+  {
+   "line": 18,
+   "file": "day24-line018.mp3",
+   "en": "Suddenly, my little brother fell into the water.",
+   "bytes": 33024
+  },
+  {
+   "line": 19,
+   "file": "day24-line019.mp3",
+   "en": "Luckily, he was fine, and everyone laughed.",
+   "bytes": 34368
+  },
+  {
+   "line": 20,
+   "file": "day24-line020.mp3",
+   "en": "In the end, it was the best trip of the year.",
+   "bytes": 34944
+  },
+  {
+   "line": 21,
+   "file": "day24-line021.mp3",
+   "en": "I think this movie is better than the book. What do you think?",
+   "bytes": 34944
+  },
+  {
+   "line": 22,
+   "file": "day24-line022.mp3",
+   "en": "I agree with you, but I see it a little differently.",
+   "bytes": 33792
+  },
+  {
+   "line": 23,
+   "file": "day24-line023.mp3",
+   "en": "Honestly, I prefer tea to coffee. Maybe next time we go out.",
+   "bytes": 42432
+  },
+  {
+   "line": 24,
+   "file": "day24-line024.mp3",
+   "en": "That's an interesting point. Can I bring a friend with me?",
+   "bytes": 31104
+  },
+  {
+   "line": 25,
+   "file": "day24-line025.mp3",
+   "en": "Yes, please let me know if you can make it.",
+   "bytes": 25344
+  },
+  {
+   "line": 26,
+   "file": "day24-line026.mp3",
+   "en": "What time should I be there?",
+   "bytes": 17088
+  },
+  {
+   "line": 27,
+   "file": "day24-line027.mp3",
+   "en": "Come at seven. We are having a small dinner at our place tonight.",
+   "bytes": 39168
+  },
+  {
+   "line": 28,
+   "file": "day24-line028.mp3",
+   "en": "It was very kind of you to invite us.",
+   "bytes": 24768
+  },
+  {
+   "line": 29,
+   "file": "day24-line029.mp3",
+   "en": "Everyone has a different opinion, and that is fine.",
+   "bytes": 34752
+  },
+  {
+   "line": 30,
+   "file": "day24-line030.mp3",
+   "en": "Home is the place where I feel relaxed.",
+   "bytes": 35712
+  },
+  {
+   "line": 31,
+   "file": "day24-line031.mp3",
+   "en": "Okay, I have to go now. See you on Friday!",
+   "bytes": 28992
+  },
+  {
+   "line": 32,
+   "file": "day24-line032.mp3",
+   "en": "See you, Sara! Thanks again.",
+   "bytes": 21504
+  }
+ ]
+}

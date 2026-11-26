@@ -1,0 +1,224 @@
+{
+ "level": "A2",
+ "day": 12,
+ "count": 36,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day12-line001.mp3",
+   "en": "Hi Omar! How are you feeling today?",
+   "bytes": 23808
+  },
+  {
+   "line": 2,
+   "file": "day12-line002.mp3",
+   "en": "Hi Sara! Much better, thank God. I had a headache yesterday.",
+   "bytes": 45312
+  },
+  {
+   "line": 3,
+   "file": "day12-line003.mp3",
+   "en": "Sorry to hear that. Did you see a doctor?",
+   "bytes": 27072
+  },
+  {
+   "line": 4,
+   "file": "day12-line004.mp3",
+   "en": "No, I just rested and drank a lot of water.",
+   "bytes": 30144
+  },
+  {
+   "line": 5,
+   "file": "day12-line005.mp3",
+   "en": "That's good. Are you ready for the English exam next week?",
+   "bytes": 33984
+  },
+  {
+   "line": 6,
+   "file": "day12-line006.mp3",
+   "en": "Almost. I am studying at the library every evening.",
+   "bytes": 36672
+  },
+  {
+   "line": 7,
+   "file": "day12-line007.mp3",
+   "en": "The library closes at eight, right?",
+   "bytes": 25152
+  },
+  {
+   "line": 8,
+   "file": "day12-line008.mp3",
+   "en": "Yes. After that, I study online at home.",
+   "bytes": 35328
+  },
+  {
+   "line": 9,
+   "file": "day12-line009.mp3",
+   "en": "Online? On that free website you told me about?",
+   "bytes": 32448
+  },
+  {
+   "line": 10,
+   "file": "day12-line010.mp3",
+   "en": "Exactly. It has great exercises and videos.",
+   "bytes": 34752
+  },
+  {
+   "line": 11,
+   "file": "day12-line011.mp3",
+   "en": "Send me the link on WhatsApp, please.",
+   "bytes": 20544
+  },
+  {
+   "line": 12,
+   "file": "day12-line012.mp3",
+   "en": "Sure, I will send it tonight.",
+   "bytes": 24384
+  },
+  {
+   "line": 13,
+   "file": "day12-line013.mp3",
+   "en": "By the way, how is your new smartphone?",
+   "bytes": 25152
+  },
+  {
+   "line": 14,
+   "file": "day12-line014.mp3",
+   "en": "It is very fast. But the battery dies quickly.",
+   "bytes": 33792
+  },
+  {
+   "line": 15,
+   "file": "day12-line015.mp3",
+   "en": "You should charge it every night.",
+   "bytes": 19392
+  },
+  {
+   "line": 16,
+   "file": "day12-line016.mp3",
+   "en": "I know, but I always forget.",
+   "bytes": 25728
+  },
+  {
+   "line": 17,
+   "file": "day12-line017.mp3",
+   "en": "Same here! Anyway, I went shopping yesterday.",
+   "bytes": 30912
+  },
+  {
+   "line": 18,
+   "file": "day12-line018.mp3",
+   "en": "Oh really? What did you buy?",
+   "bytes": 21504
+  },
+  {
+   "line": 19,
+   "file": "day12-line019.mp3",
+   "en": "A new jacket. It was on sale, thirty percent off.",
+   "bytes": 36672
+  },
+  {
+   "line": 20,
+   "file": "day12-line020.mp3",
+   "en": "Great deal! How much did you pay?",
+   "bytes": 26304
+  },
+  {
+   "line": 21,
+   "file": "day12-line021.mp3",
+   "en": "Only five hundred pounds. I paid by card.",
+   "bytes": 29952
+  },
+  {
+   "line": 22,
+   "file": "day12-line022.mp3",
+   "en": "Nice. I need new shoes for work.",
+   "bytes": 27648
+  },
+  {
+   "line": 23,
+   "file": "day12-line023.mp3",
+   "en": "There is a good shoe shop next to the pharmacy.",
+   "bytes": 29568
+  },
+  {
+   "line": 24,
+   "file": "day12-line024.mp3",
+   "en": "I know it. Is it expensive?",
+   "bytes": 22848
+  },
+  {
+   "line": 25,
+   "file": "day12-line025.mp3",
+   "en": "Not really. Good prices and good service.",
+   "bytes": 33984
+  },
+  {
+   "line": 26,
+   "file": "day12-line026.mp3",
+   "en": "I will go there on Friday after work.",
+   "bytes": 27648
+  },
+  {
+   "line": 27,
+   "file": "day12-line027.mp3",
+   "en": "Do you want me to come with you?",
+   "bytes": 17472
+  },
+  {
+   "line": 28,
+   "file": "day12-line028.mp3",
+   "en": "That would be great! And my sister wants to come too.",
+   "bytes": 30144
+  },
+  {
+   "line": 29,
+   "file": "day12-line029.mp3",
+   "en": "How is your sister? I heard she got married!",
+   "bytes": 27648
+  },
+  {
+   "line": 30,
+   "file": "day12-line030.mp3",
+   "en": "Yes, two months ago. She is very happy.",
+   "bytes": 32448
+  },
+  {
+   "line": 31,
+   "file": "day12-line031.mp3",
+   "en": "Congratulations! Family is everything.",
+   "bytes": 30912
+  },
+  {
+   "line": 32,
+   "file": "day12-line032.mp3",
+   "en": "Thank you, Sara. You are a good friend.",
+   "bytes": 26688
+  },
+  {
+   "line": 33,
+   "file": "day12-line033.mp3",
+   "en": "And you are a good friend too, Omar.",
+   "bytes": 23232
+  },
+  {
+   "line": 34,
+   "file": "day12-line034.mp3",
+   "en": "Okay, I have to go. My class starts in ten minutes.",
+   "bytes": 41664
+  },
+  {
+   "line": 35,
+   "file": "day12-line035.mp3",
+   "en": "Good luck with the exam!",
+   "bytes": 17664
+  },
+  {
+   "line": 36,
+   "file": "day12-line036.mp3",
+   "en": "Thanks! See you on Friday!",
+   "bytes": 22464
+  }
+ ]
+}

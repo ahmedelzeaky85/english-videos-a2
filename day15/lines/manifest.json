@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 15,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day15-line001.mp3",
+   "en": "I live in a busy street near the city center.",
+   "bytes": 33792
+  },
+  {
+   "line": 2,
+   "file": "day15-line002.mp3",
+   "en": "The traffic was terrible this morning.",
+   "bytes": 29568
+  },
+  {
+   "line": 3,
+   "file": "day15-line003.mp3",
+   "en": "There is a new metro station near my house.",
+   "bytes": 26112
+  },
+  {
+   "line": 4,
+   "file": "day15-line004.mp3",
+   "en": "My neighborhood is quiet and safe at night.",
+   "bytes": 33408
+  },
+  {
+   "line": 5,
+   "file": "day15-line005.mp3",
+   "en": "I moved to the city two years ago.",
+   "bytes": 27264
+  },
+  {
+   "line": 6,
+   "file": "day15-line006.mp3",
+   "en": "The streets are always crowded on weekends.",
+   "bytes": 28992
+  },
+  {
+   "line": 7,
+   "file": "day15-line007.mp3",
+   "en": "There are many small shops in my area.",
+   "bytes": 27648
+  },
+  {
+   "line": 8,
+   "file": "day15-line008.mp3",
+   "en": "I took a taxi because the bus was late.",
+   "bytes": 28992
+  },
+  {
+   "line": 9,
+   "file": "day15-line009.mp3",
+   "en": "The city looks beautiful at night.",
+   "bytes": 22272
+  },
+  {
+   "line": 10,
+   "file": "day15-line010.mp3",
+   "en": "I want to live in a calmer place one day.",
+   "bytes": 29952
+  }
+ ]
+}

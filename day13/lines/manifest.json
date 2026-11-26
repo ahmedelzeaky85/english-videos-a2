@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 13,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day13-line001.mp3",
+   "en": "I need to open a bank account.",
+   "bytes": 21504
+  },
+  {
+   "line": 2,
+   "file": "day13-line002.mp3",
+   "en": "How much money do you have with you?",
+   "bytes": 23232
+  },
+  {
+   "line": 3,
+   "file": "day13-line003.mp3",
+   "en": "I want to withdraw some cash from the ATM.",
+   "bytes": 26688
+  },
+  {
+   "line": 4,
+   "file": "day13-line004.mp3",
+   "en": "Can I pay by card, or cash only?",
+   "bytes": 27648
+  },
+  {
+   "line": 5,
+   "file": "day13-line005.mp3",
+   "en": "I transferred the money to your account yesterday.",
+   "bytes": 28032
+  },
+  {
+   "line": 6,
+   "file": "day13-line006.mp3",
+   "en": "This restaurant is too expensive for me.",
+   "bytes": 30144
+  },
+  {
+   "line": 7,
+   "file": "day13-line007.mp3",
+   "en": "I am saving money to buy a new phone.",
+   "bytes": 28032
+  },
+  {
+   "line": 8,
+   "file": "day13-line008.mp3",
+   "en": "The bank is closed on Fridays.",
+   "bytes": 24384
+  },
+  {
+   "line": 9,
+   "file": "day13-line009.mp3",
+   "en": "Can you lend me fifty pounds until tomorrow?",
+   "bytes": 26304
+  },
+  {
+   "line": 10,
+   "file": "day13-line010.mp3",
+   "en": "I spent all my salary in the first week.",
+   "bytes": 35712
+  }
+ ]
+}

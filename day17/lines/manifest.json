@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 17,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day17-line001.mp3",
+   "en": "I go to the gym three times a week.",
+   "bytes": 24768
+  },
+  {
+   "line": 2,
+   "file": "day17-line002.mp3",
+   "en": "Yesterday I played football with my friends.",
+   "bytes": 28032
+  },
+  {
+   "line": 3,
+   "file": "day17-line003.mp3",
+   "en": "She runs in the park every morning.",
+   "bytes": 25152
+  },
+  {
+   "line": 4,
+   "file": "day17-line004.mp3",
+   "en": "Swimming is better than running for my back.",
+   "bytes": 27648
+  },
+  {
+   "line": 5,
+   "file": "day17-line005.mp3",
+   "en": "Our team won the match last night.",
+   "bytes": 20352
+  },
+  {
+   "line": 6,
+   "file": "day17-line006.mp3",
+   "en": "I want to get stronger, so I lift weights.",
+   "bytes": 34368
+  },
+  {
+   "line": 7,
+   "file": "day17-line007.mp3",
+   "en": "You should stretch before you exercise.",
+   "bytes": 23424
+  },
+  {
+   "line": 8,
+   "file": "day17-line008.mp3",
+   "en": "He is training for a race next month.",
+   "bytes": 25344
+  },
+  {
+   "line": 9,
+   "file": "day17-line009.mp3",
+   "en": "Drink water, because the weather is hot today.",
+   "bytes": 29184
+  },
+  {
+   "line": 10,
+   "file": "day17-line010.mp3",
+   "en": "Exercise makes me happy and full of energy.",
+   "bytes": 35328
+  }
+ ]
+}

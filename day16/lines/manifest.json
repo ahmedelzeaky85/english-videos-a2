@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 16,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day16-line001.mp3",
+   "en": "I cooked dinner for my family yesterday.",
+   "bytes": 20928
+  },
+  {
+   "line": 2,
+   "file": "day16-line002.mp3",
+   "en": "This dish needs more salt and pepper.",
+   "bytes": 27072
+  },
+  {
+   "line": 3,
+   "file": "day16-line003.mp3",
+   "en": "My mother makes the best stuffed vegetables.",
+   "bytes": 30144
+  },
+  {
+   "line": 4,
+   "file": "day16-line004.mp3",
+   "en": "We ate grilled chicken and rice for lunch.",
+   "bytes": 29568
+  },
+  {
+   "line": 5,
+   "file": "day16-line005.mp3",
+   "en": "I am learning to cook from videos online.",
+   "bytes": 27072
+  },
+  {
+   "line": 6,
+   "file": "day16-line006.mp3",
+   "en": "The soup is too hot, wait a little.",
+   "bytes": 29952
+  },
+  {
+   "line": 7,
+   "file": "day16-line007.mp3",
+   "en": "Do you prefer tea or coffee after dinner?",
+   "bytes": 27648
+  },
+  {
+   "line": 8,
+   "file": "day16-line008.mp3",
+   "en": "I bought fresh bread from the bakery this morning.",
+   "bytes": 29952
+  },
+  {
+   "line": 9,
+   "file": "day16-line009.mp3",
+   "en": "She ordered dessert because the food was delicious.",
+   "bytes": 33984
+  },
+  {
+   "line": 10,
+   "file": "day16-line010.mp3",
+   "en": "Cooking at home is cheaper than eating out.",
+   "bytes": 28224
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "level": "A2",
+ "day": 11,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day11-line001.mp3",
+   "en": "I have known my best friend since school.",
+   "bytes": 29568
+  },
+  {
+   "line": 2,
+   "file": "day11-line002.mp3",
+   "en": "They got married two years ago.",
+   "bytes": 24192
+  },
+  {
+   "line": 3,
+   "file": "day11-line003.mp3",
+   "en": "She is very close to her mother.",
+   "bytes": 24384
+  },
+  {
+   "line": 4,
+   "file": "day11-line004.mp3",
+   "en": "We visit our relatives every Friday.",
+   "bytes": 26688
+  },
+  {
+   "line": 5,
+   "file": "day11-line005.mp3",
+   "en": "He broke up with his girlfriend last month.",
+   "bytes": 22848
+  },
+  {
+   "line": 6,
+   "file": "day11-line006.mp3",
+   "en": "My parents live in a small village.",
+   "bytes": 27648
+  },
+  {
+   "line": 7,
+   "file": "day11-line007.mp3",
+   "en": "I met my wife at a friend's wedding.",
+   "bytes": 21312
+  },
+  {
+   "line": 8,
+   "file": "day11-line008.mp3",
+   "en": "Good friends always help each other.",
+   "bytes": 26112
+  },
+  {
+   "line": 9,
+   "file": "day11-line009.mp3",
+   "en": "She calls her sister every day.",
+   "bytes": 25728
+  },
+  {
+   "line": 10,
+   "file": "day11-line010.mp3",
+   "en": "Family is the most important thing in life.",
+   "bytes": 33984
+  }
+ ]
+}
